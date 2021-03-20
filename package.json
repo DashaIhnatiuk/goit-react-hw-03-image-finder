@@ -1,5 +1,5 @@
 {
-  "name": "goit-react-hw-03-phonebook",
+  "name": "goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,15 +25,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DashaIhnatiuk/goit-react-hw-03-phonebook.git"
+    "url": "git+https://github.com/DashaIhnatiuk/goit-react-hw-03-image-finder.git"
   },
   "keywords": [],
   "author": "Dasha Ihnatiuk <danya210498@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DashaIhnatiuk/goit-react-hw-03-phonebook/issues"
+    "url": "https://github.com/DashaIhnatiuk/goit-react-hw-03-image-finder/issues"
   },
-  "homepage": "https://DashaIhnatiuk.github.io/goit-react-hw-03-phonebook",
+  "homepage": "https://DashaIhnatiuk.github.io/goit-react-hw-03-image-finder",
   "eslintConfig": {
     "extends": [
       "react-app",
